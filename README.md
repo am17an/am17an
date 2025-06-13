@@ -1,6 +1,6 @@
-## Hi there 👋
+Learning about learning
 
-0.1x DEVELOPER
+
 <!--
 **am17an/am17an** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
