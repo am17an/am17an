@@ -1,4 +1,6 @@
-Learning about learning
+Learning about learning. 
+
+I'm a programmer. If you are working on something interesting and want to collaborate, shoot me a message at amangupta052 at gmail dot com
 
 
 <!--
