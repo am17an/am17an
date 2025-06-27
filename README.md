@@ -1,7 +1,4 @@
-Learning about learning. 
-
-I'm a programmer. If you are working on something interesting and want to collaborate, shoot me a message at amangupta052 at gmail dot com
-
+🐼
 
 <!--
 **am17an/am17an** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
