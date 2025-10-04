@@ -1,4 +1,4 @@
-🐼
+I'm primarily a C++ programmer, these days I'm contributing to the CUDA backend in llama.cpp.
 
 <!--
 **am17an/am17an** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
