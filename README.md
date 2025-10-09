@@ -1,4 +1,4 @@
-I'm primarily a C++ programmer, these days I'm contributing to the CUDA backend in llama.cpp.
+I'm primarily a C++ programmer, interested in high-performance computing. These days I'm trying to learn CUDA.
 
 Also writing some stuff at [am17an.bearblog.dev](https://am17an.bearblog.dev)
 
