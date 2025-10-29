@@ -1,6 +1,6 @@
 I'm primarily a C++ programmer, interested in high-performance computing. These days I'm trying to learn CUDA.
 
-Also writing some stuff at [am17an.bearblog.dev](https://am17an.bearblog.dev)
+Also writing some stuff at [am17an.bearblog.dev](https://am17an.bearblog.dev) and contributing to llama.cpp
 
 <!--
 **am17an/am17an** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
