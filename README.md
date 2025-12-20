@@ -1,4 +1,4 @@
-I'm primarily a C++ programmer, interested in low-latency, high-performance computing.
+I'm primarily a C++ programmer, interested in low-latency, high-performance computing, probability and statitics.
 
 These days I am:
 - Contributing to llama.cpp - mostly the CUDA backend
